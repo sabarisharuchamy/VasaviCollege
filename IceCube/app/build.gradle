@@ -7,8 +7,8 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "matrix.cube"
-        minSdkVersion 24
+        applicationId "com.appin.icecube"
+        minSdkVersion 27
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
