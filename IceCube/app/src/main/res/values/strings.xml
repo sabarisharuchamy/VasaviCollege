@@ -1,26 +1,3 @@
 <resources>
     <string name="app_name">IceCube</string>
-    <string-array name="tech">
-        <item>C</item>
-        <item>C++</item>
-        <item>JAVA</item>
-        <item>Php</item>
-        <item>Python</item>
-        <item>Ruby</item>
-        <item>Perl</item>
-        <item>C#</item>
-        <item>Flutter</item>
-        <item>ReactNative</item>
-        <item>Apache Cordova</item>
-        <item>Ionic Framework</item>
-        <item>Testing</item>
-        <item>Dev</item>
-        <item>Kivy</item>
-        <item>Tkinter</item>
-        <item>Spring</item>
-        <item>Laravel</item>
-        <item>CodeIgniter</item>
-    </string-array>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
