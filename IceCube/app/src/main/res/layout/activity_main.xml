@@ -4,20 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center|center_horizontal"
     android:orientation="vertical"
-    tools:context=".MainActivity">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Data From Second Activity will be displayed here" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Call Second Activity" />
-
+    tools:context=".MainActivity" >
+    <fragment
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        class="com.appin.icecube.MenuFragment"
+        android:id="@+id/fragment"
+        android:layout_weight="0.5"/>
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.appin.icecube.TextFragment"
+        android:id="@+id/fragment2"
+        android:layout_weight="0.5"/>
 </LinearLayout>
