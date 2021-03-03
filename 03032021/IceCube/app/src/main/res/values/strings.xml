@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IceCube</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="web_client_id">418325307715-ua7520s78lo74i98kmk0ri1hm300ugk3.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "418325307715",
+    "firebase_url": "https://glassy-fort-227412.firebaseio.com",
+    "project_id": "glassy-fort-227412",
+    "storage_bucket": "glassy-fort-227412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418325307715:android:fb50aaa82f3eaf63760ff6",
+        "android_client_info": {
+          "package_name": "com.appin.icecube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418325307715-ua7520s78lo74i98kmk0ri1hm300ugk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm_j-_j9VKItGdE-bjDzWLrG2OV7o9wyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418325307715-ua7520s78lo74i98kmk0ri1hm300ugk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418325307715:android:d1c052080f032fcf760ff6",
+        "android_client_info": {
+          "package_name": "com.onesignalnotificationex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418325307715-ua7520s78lo74i98kmk0ri1hm300ugk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm_j-_j9VKItGdE-bjDzWLrG2OV7o9wyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418325307715-ua7520s78lo74i98kmk0ri1hm300ugk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
